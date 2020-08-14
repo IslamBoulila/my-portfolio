@@ -1,0 +1,74 @@
+#colorlib-main {
+    width: calc(100% - 300px);
+    float: right;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s; }
+    @media screen and (max-width: 768px) {
+      #colorlib-main {
+        width: 100%;
+        padding: 0 1em; } }
+  
+  
+  
+  body.offcanvas {
+    overflow-x: hidden; }
+  
+    body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
+      top: 0;
+      -moz-transform: translateX(300px);
+      -webkit-transform: translateX(300px);
+      -ms-transform: translateX(300px);
+      -o-transform: translateX(300px);
+      transform: translateX(300px); }
+
+
+      .colorlib-narrow-content {
+        padding: 0 2.5em; }
+        @media screen and (max-width: 768px) {
+          .colorlib-narrow-content {
+            padding: 0; } }
+      
+      .no-gutters {
+        margin: 0;
+        padding: 0; }
+      
+      .colorlib-experience,
+      .colorlib-skills,
+      .colorlib-education,
+      .colorlib-blog,
+      .colorlib-work,
+      .colorlib-about,
+      .colorlib-services,
+      .colorlib-contact {
+        padding-top: 4em;
+        padding-bottom: 9em;
+        clear: both;
+        width: 100%;
+        display: block; }
+        @media screen and (max-width: 768px) {
+          .colorlib-experience,
+          .colorlib-skills,
+          .colorlib-education,
+          .colorlib-blog,
+          .colorlib-work,
+          .colorlib-about,
+          .colorlib-services,
+          .colorlib-contact {
+            padding-top: 5em;
+            padding-bottom: 8em; } }
+      
+      
+      .colorlib-heading {
+        font-size: 18px;
+        margin-bottom: 4em;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        line-height: 1.8;
+        position: relative; }
+        .colorlib-heading span {
+          display: block; }
+        @media screen and (max-width: 768px) {
+          .colorlib-heading {
+            margin-bottom: 3em; } }
