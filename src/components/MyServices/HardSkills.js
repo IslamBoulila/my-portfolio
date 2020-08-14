@@ -12,25 +12,38 @@ const HardSkills = () => {
                     </div>
                 </div>
                 <div className="row row-pt-md">
-                    <div className="col-md-4 text-center animate-box">
-                        <div className="services color-1">
-                            <span className="icon">
-                                <i className="icon-bulb" />
-                            </span>
-                            <div className="desc">
-                                <h3>Innovative Ideas</h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-                            </div>
-                        </div>
-                    </div>
+                  
                     <div className="col-md-4 text-center animate-box">
                         <div className="services color-2">
                             <span className="icon">
                                 <i className="icon-data" />
                             </span>
                             <div className="desc">
-                                <h3>Web developpement</h3>
-                                <p>The main area of my humble expertise and my big passion is backend development with Java EE.</p>
+                                <h3>Full-Stack Developer</h3>
+                                <p>It's true that i'm passionate by Java and ReactJs, but i also have worked before on some projects with PHP, Js, HTML, CSS.</p>
+                                {/*<p>The main area of my humble expertise and my big passion is backend development with Java EE.</p>*/}
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 text-center animate-box">
+                        <div className="services color-1">
+                            <span className="icon">
+                                <i className="icon-shopping-cart" />
+                            </span>
+                            <div className="desc">
+                                <h3>SAP Hybris developer</h3>
+                                <p>I pursued my recent internship with SAP Hybris team of SQLI-Oujda agency.i gained some skills and knowledge in the main areas of SAP Hybris Commerce Development and worked with, tools like Jenkins, Solr, Jira..</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 text-center animate-box">
+                        <div className="services color-4">
+                            <span className="icon">
+                                <i className="icon-bulb" />
+                            </span>
+                            <div className="desc">
+                                <h3>Software engineering</h3>
+                                <p>As coming from the engineering background, I have good grasp over principles of Software Engineering and Agility.</p>
                             </div>
                         </div>
                     </div>
@@ -40,44 +53,15 @@ const HardSkills = () => {
                                 <i className="icon-phone3" />
                             </span>
                             <div className="desc">
-                                <h3>Application</h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                <h3>CMS Web Developer</h3>
+                                <p>I had experience building and custumizing websites using different CMS like October CMS and Wordpress</p>
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 text-center animate-box">
-                        <div className="services color-4">
-                            <span className="icon">
-                                <i className="icon-layers2" />
-                            </span>
-                            <div className="desc">
-                                <h3>SAP Hybris developer</h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 text-center animate-box">
-                        <div className="services color-5">
-                            <span className="icon">
-                                <i className="icon-data" />
-                            </span>
-                            <div className="desc">
-                                <h3>Software</h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 text-center animate-box">
-                        <div className="services color-6">
-                            <span className="icon">
-                                <i className="icon-phone3" />
-                            </span>
-                            <div className="desc">
-                                <h3>Application</h3>
-                                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-                            </div>
-                        </div>
-                    </div>
+                   
+                   
+                   
+                   
                 </div>
             </div>
         </section>
