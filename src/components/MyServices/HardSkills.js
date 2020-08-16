@@ -13,7 +13,7 @@ const HardSkills = () => {
                 </div>
                 <div className="row row-pt-md">
                   
-                    <div className="col-md-4 text-center animate-box">
+                    <div className="col-md-6 text-center animate-box">
                         <div className="services color-2">
                             <span className="icon">
                                 <i className="icon-data" />
@@ -25,7 +25,7 @@ const HardSkills = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 text-center animate-box">
+                    <div className="col-md-6 text-center animate-box">
                         <div className="services color-1">
                             <span className="icon">
                                 <i className="icon-shopping-cart" />
@@ -36,7 +36,7 @@ const HardSkills = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 text-center animate-box">
+                    <div className="col-md-6 text-center animate-box">
                         <div className="services color-4">
                             <span className="icon">
                                 <i className="icon-bulb" />
@@ -47,7 +47,7 @@ const HardSkills = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 text-center animate-box">
+                    <div className="col-md-6 text-center animate-box">
                         <div className="services color-3">
                             <span className="icon">
                                 <i className="icon-phone3" />
