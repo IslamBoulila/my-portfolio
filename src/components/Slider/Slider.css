@@ -3,7 +3,7 @@
     background: #fff  no-repeat center center;
     width: 100%;
     float: left;
-    margin-bottom: 10em;
+    margin-bottom:4em;
     clear: both; }
     #colorlib-hero .flexslider {
       border: none;
@@ -92,7 +92,7 @@
           #colorlib-hero .flexslider .slider-text > .slider-text-inner p {
             margin-bottom: 0; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
-            font-size: 12px;
+            font-size: 14px;
             text-transform: uppercase;
             letter-spacing: 2px;
             color: #000;

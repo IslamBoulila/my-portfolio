@@ -20,7 +20,7 @@ const HardSkills = () => {
                             </span>
                             <div className="desc">
                                 <h3>Full-Stack Developer</h3>
-                                <p>It's true that i'm passionate by Java and ReactJs, but i also have worked before on some projects with PHP, Js, HTML, CSS.</p>
+                                <p>It's true that I'm passionate by Java and ReactJs, but I also have worked before on some projects with PHP, JavaScript, HTML, CSS.</p>
                                 {/*<p>The main area of my humble expertise and my big passion is backend development with Java EE.</p>*/}
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const HardSkills = () => {
                             </span>
                             <div className="desc">
                                 <h3>SAP Hybris developer</h3>
-                                <p>I pursued my recent internship with SAP Hybris team of SQLI-Oujda agency.I gained some skills and knowledge in the main areas of SAP Hybris Commerce Development and worked with, tools like Jenkins, Solr, Jira..</p>
+                                <p>I pursued my recent internship with SAP Hybris team of SQLI-Oujda agency. I gained some skills and knowledge in the main areas of SAP Hybris Commerce Development and worked with, tools like Jenkins, Solr, Jira..</p>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ const HardSkills = () => {
                             </span>
                             <div className="desc">
                                 <h3>CMS Web Developer</h3>
-                                <p>I have experience building and customizing  websites using different CMS like October CMS and Wordpress</p>
+                                <p>I have experience building and customizing  websites using different CMS like October CMS and Wordpress.</p>
                             </div>
                         </div>
                     </div>

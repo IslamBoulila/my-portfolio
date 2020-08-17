@@ -10,7 +10,7 @@ import TimeLine from './TimeLine/TimeLine';
 const Main=(props )=>{
 return(
 <div id="colorlib-main"  >
-    <Slider image1="images/slider-img.jpg" image2="images/slider-img.jpg"/>
+    <Slider image1="images/slider-img2.jpg" image2="images/slider-img1.jpg"/>
     <About/>
     <HardSkills/>
     <SoftSkills/>

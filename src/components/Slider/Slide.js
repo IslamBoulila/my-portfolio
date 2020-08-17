@@ -4,6 +4,7 @@ const Slide = (props) => {
 
     return (
         <li style={{ backgroundImage: 'url(' + props.imgUrl + ')' }}>
+           
             <div className="overlay" />
             <div className="container-fluid">
                 <div className="row">
