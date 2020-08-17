@@ -18,18 +18,19 @@ const SideBar = (props)=>{
                 <ul>
                   <li className="active"><a href="#" data-nav-section="introduction">Introduction</a></li>
                   <li><a href="#" data-nav-section="about">About Me</a></li>
-                  <li><a href="#" data-nav-section="services">Services</a></li>
+                  <li><a href="#" data-nav-section="experiences">Experiences</a></li>
                   <li><a href="#" data-nav-section="skills">My Soft Skills</a></li>
-                  <li><a href="#" data-nav-section="education">Education</a></li>
-                  <li><a href="#" data-nav-section="experience">Experience</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>
-                  <li><a href="#" data-nav-section="contact">Contact</a></li>
+               
+                  <li><a href="#" data-nav-section="timeline">TimeLine</a></li>
+             
                 </ul>
               </div>
             </nav>
             <div className="colorlib-footer">
-              <p>Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true" /> <br/> <small>Thank you  <a href="https://colorlib.com" target="_blank">Colorlib</a> for inspiration </small> 
-            </p>
+              <div>Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true" /></div>
+               <p><i className="icon-mail" ></i> islamboulila@gmail.com</p>
+                <p><small>Thank you  <a href="https://colorlib.com" target="_blank">Colorlib</a> for inspiration </small> </p>
+            
               <ul>
                 <li><a href="https://www.linkedin.com/in/islam-boulila/" target="_blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/IslamBoulila/"target="_blank"><i className="icon-github" /></a></li>

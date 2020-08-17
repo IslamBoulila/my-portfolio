@@ -3,7 +3,7 @@ import './HardSkills.css';
 
 const HardSkills = () => {
     return (
-        <section className="colorlib-services" data-section="services">
+        <section className="colorlib-services" data-section="experiences">
             <div className="colorlib-narrow-content">
                 <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -32,7 +32,7 @@ const HardSkills = () => {
                             </span>
                             <div className="desc">
                                 <h3>SAP Hybris developer</h3>
-                                <p>I pursued my recent internship with SAP Hybris team of SQLI-Oujda agency.i gained some skills and knowledge in the main areas of SAP Hybris Commerce Development and worked with, tools like Jenkins, Solr, Jira..</p>
+                                <p>I pursued my recent internship with SAP Hybris team of SQLI-Oujda agency.I gained some skills and knowledge in the main areas of SAP Hybris Commerce Development and worked with, tools like Jenkins, Solr, Jira..</p>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ const HardSkills = () => {
                             </span>
                             <div className="desc">
                                 <h3>CMS Web Developer</h3>
-                                <p>I had experience building and custumizing websites using different CMS like October CMS and Wordpress</p>
+                                <p>I have experience building and customizing  websites using different CMS like October CMS and Wordpress</p>
                             </div>
                         </div>
                     </div>

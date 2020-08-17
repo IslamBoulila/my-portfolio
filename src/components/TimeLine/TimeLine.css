@@ -1,7 +1,6 @@
 #cd-timeline {
   position: relative;
   padding: 2em 0;
-  margin-top: 2em;
   margin-bottom: 2em;
 }
 #cd-timeline::before {
@@ -15,7 +14,6 @@
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
-    margin-top: 3em;
     margin-bottom: 3em;
  }
   #cd-timeline::before {
@@ -132,11 +130,12 @@
   color: rgb(0,0,0);
   margin-top: 0;
   margin-bottom: 5px;
+ 
 }
 .cd-timeline-content p, .cd-timeline-content .cd-date {
   color: rgba(0,0,0);
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 15px;
+  /*font-size: 0.8125rem;*/
 }
 .cd-timeline-content .cd-date {
   display: inline-block;
@@ -169,12 +168,19 @@
  }
   .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
     font-size: 14px;
-    font-size: 0.875rem;
+    /*font-size: 0.875rem;*/
  }
  .cd-timeline-content a{
   font-weight: 600;
+  color:#ad2a2a
  }
 }
+@media(max-width: 767px) {
+  .cd-timeline-content h2 {
+    font-size: 18px;
+  }
+}
+
 @media only screen and (min-width: 1170px) {
   .cd-timeline-content {
     color: white;
@@ -206,7 +212,7 @@
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: #333c42;
+    border-right-color:  #e89a9a;
  }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;

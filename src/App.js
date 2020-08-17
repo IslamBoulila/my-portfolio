@@ -12,7 +12,7 @@ class App extends Component {
                 <div className="container-wrap">
                     <SideBar fullName="Islam BOULILA" />
 
-                   <Main sliderImg='images/slider-img.jpg'/>
+                   <Main/>
 
                 </div>
 

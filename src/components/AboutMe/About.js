@@ -13,41 +13,16 @@ const About = () => {
                                 <div className="about-desc">
                                     <span className="heading-meta">About Me</span>
                                     <h2 className="colorlib-heading">Who Am I?</h2>
-                                    <p><strong>Hello! I'm Islam Boulila.</strong> I'm a recent graduate of the <strong>National School of Applied Sciences</strong> in Morocco as a State Engineer in Software Engineering.</p>
+                                    <p><strong>Hello &#128516; ! I'm Islam Boulila.</strong> I'm a recent graduate of the <strong>National School of Applied Sciences</strong> in Morocco as a State Engineer in Software Engineering.</p>
 
 <p>I was recently an intern at the <strong>SQLI group</strong> in Morocco for 6 months. During this period, i participated within an agile team in the creation of an E-commerce site based on the SAP Hybris Commerce solution.</p>
 <p>I am passionate about web development in Java EE and ReactJs.
-I'm always eager and exited to learn and discover new technologies, and when i do i dig into how things work and the reasons behind.</p>
-<p>People who know me or worked with me before know how i'm obssesed with organazing and planing my shedule. Yeah, you guessed it :p ! I'm that type of person who writes down his TO DO List  before starting his day and being productive.</p>
+I'm always eager and exited to learn and discover new technologies, and when i do i love dig into how things work and the reasons behind &#129488;.</p>
+<p>People who know me or worked with me before know how i'm obssesed with organazing and planing my schedule. Yeah, you guessed it &#128540; ! I'm that type of person who writes down his TO DO List  before starting his day and being productive.</p>
                                 </div>
                             </div>
                         </div>
-                        <div className="row">
-                            <div className="col-md-3 animate-box" data-animate-effect="fadeInLeft">
-                                <div className="services color-1">
-                                    <span className="icon2"><i className="icon-bulb" /></span>
-                                    <h3>Graphic Design</h3>
-                                </div>
-                            </div>
-                            <div className="col-md-3 animate-box" data-animate-effect="fadeInRight">
-                                <div className="services color-2">
-                                    <span className="icon2"><i className="icon-globe-outline" /></span>
-                                    <h3>Web Design</h3>
-                                </div>
-                            </div>
-                            <div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
-                                <div className="services color-3">
-                                    <span className="icon2"><i className="icon-data" /></span>
-                                    <h3>Software</h3>
-                                </div>
-                            </div>
-                            <div className="col-md-3 animate-box" data-animate-effect="fadeInBottom">
-                                <div className="services color-4">
-                                    <span className="icon2"><i className="icon-phone3" /></span>
-                                    <h3>Application</h3>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div className="row">
                             <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="hire">
