@@ -1,7 +1,15 @@
 import React from 'react';
 
 const Slide = (props) => {
-
+let icon=null;
+switch (props.icon){
+    case "download":
+        icon="icon-download4";
+        break;
+    case "instagram":
+        icon="icon-instagram";
+        break;
+}
     return (
         <li style={{ backgroundImage: 'url(' + props.imgUrl + ')' }}>
            
@@ -13,7 +21,7 @@ const Slide = (props) => {
                             <div className="desc">
                                 <h1>{props.children}</h1>
 
-                                <p><a className="btn btn-primary btn-learn" href={props.link} target="_blank">{props.buttonLabel} <i className="icon-download4" /></a></p>
+                                <p><a className="btn btn-primary btn-learn" href={props.link} target="_blank">{props.buttonLabel} <i className={icon} /></a></p>
                             </div>
                         </div>
                     </div>
