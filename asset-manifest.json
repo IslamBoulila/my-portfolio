@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b2b365e4.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.881c53be.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.881c53be.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8b00eace.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8b00eace.js.map",
+    "static/js/2.1d2ca499.chunk.js": "/my-portfolio/static/js/2.1d2ca499.chunk.js",
+    "static/js/2.1d2ca499.chunk.js.map": "/my-portfolio/static/js/2.1d2ca499.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.97313bacff09cfcbed9958ea6fdd162f.js": "/my-portfolio/precache-manifest.97313bacff09cfcbed9958ea6fdd162f.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.b2b365e4.chunk.css.map": "/my-portfolio/static/css/main.b2b365e4.chunk.css.map",
+    "static/js/2.1d2ca499.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.1d2ca499.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-portfolio/static/media/icomoon.ee8d016f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b00eace.js",
+    "static/js/2.1d2ca499.chunk.js",
+    "static/css/main.b2b365e4.chunk.css",
+    "static/js/main.881c53be.chunk.js"
+  ]
+}
