@@ -55,7 +55,7 @@ const TimeLine = () => {
           title="FCPO"
           missionOrPlace="Full Stack Developer Intern"
           startDate="Jul 2018"
-          periodOrFullDates="July 2018- August 2018"
+          periodOrFullDates="July 2018 - August 2018"
           skills={["PHP","HTML5","CSS3","JavaScript","jQuery"]}
          
           type="internship" >
@@ -65,7 +65,7 @@ const TimeLine = () => {
           title="Novelis"
           missionOrPlace=" Back-End Developer Intern"
           startDate="Aug 2018"
-          periodOrFullDates="   August 2018- September 2018"
+          periodOrFullDates="   August 2018 - September 2018"
           skills={["Wordpress","HTML5","CSS3","JavaScript"]}
           type="internship" >
            I participated in the development of a multilingual website for <a href="https://novelis.io/" target="_blank">NOVELIS</a> company itself, based on a CMS.
